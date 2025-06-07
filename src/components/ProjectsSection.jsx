@@ -16,7 +16,7 @@ const projects = [
     title: "Orbit Analytics Dashboard",
     description:
       "Interactive analytics dashboard with data visualization and filtering capabilities.",
-    image: `${BASE_URL}projects/project2.png`,
+    image: "https://swift-9.github.io/swastik-portfolio/projects/project1.png",
     tags: ["TypeScript", "D3.js", "Next.js"],
     demoUrl: "#",
     githubUrl: "#",
