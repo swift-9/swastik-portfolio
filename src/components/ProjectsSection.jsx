@@ -4,12 +4,12 @@ const BASE_URL = import.meta.env.BASE_URL;
 const projects = [
   {
     id: 1,
-    title: "SaaS Landing Page",
-    description: "A beautiful landing page app using React and Tailwind.",
+    title: "RIDEAtlas-EX: SSR Page with React Router v7",
+    description: "A beautiful landing page app using React and Tailwind and Rest API.",
     image: "https://swift-9.github.io/swastik-portfolio/projects/project1.png",
-    tags: ["React", "TailwindCSS", "Supabase"],
-    demoUrl: "#",
-    githubUrl: "#",
+    tags: ["React", "TailwindCSS", "Router v7"],
+    demoUrl: "https://ride-atlas-ex.vercel.app/",
+    githubUrl: "https://github.com/swift-9/RIDEAtlas-EX.git",
   },
   {
     id: 2,
