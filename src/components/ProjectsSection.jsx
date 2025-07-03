@@ -5,7 +5,7 @@ const projects = [
   {
     id: 1,
     title: "RIDEAtlas-EX: SSR Page with React Router v7",
-    description: "A beautiful landing page app using React and Tailwind and Rest API.",
+    description: "A beautiful landing page app using React and Tailwind and Rest API to display countries data.",
     image: "https://swift-9.github.io/swastik-portfolio/projects/project1.png",
     tags: ["React", "TailwindCSS", "Router v7"],
     demoUrl: "https://ride-atlas-ex.vercel.app/",
