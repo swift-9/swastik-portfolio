@@ -1,11 +1,11 @@
-
 import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const BASE_URL = import.meta.env.BASE_URL;
 const projects = [
   {
     id: 1,
     title: "RIDEAtlas-EX: SSR Page with React Router v7",
-    description: "A beautiful landing page app using React and Tailwind and Rest API to display countries data.",
+    description:
+      "A beautiful landing page app using React and Tailwind and Rest API to display countries data.",
     image: "https://swift-9.github.io/swastik-portfolio/projects/project1.png",
     tags: ["React", "TailwindCSS", "Router v7"],
     demoUrl: "https://ride-atlas-ex.vercel.app/",
@@ -13,13 +13,13 @@ const projects = [
   },
   {
     id: 2,
-    title: "Orbit Analytics Dashboard",
+    title: "RideAtlas Orbit: Trip Planner",
     description:
-      "Interactive analytics dashboard with data visualization and filtering capabilities.",
-    image: "https://swift-9.github.io/swastik-portfolio/projects/project2.png",
-    tags: ["TypeScript", "D3.js", "Next.js"],
-    demoUrl: "#",
-    githubUrl: "#",
+      "Trip planner with itinerary creation, image uploads, and globe visualization using Google Maps API — built with Next.js, TypeScript, Tailwind CSS, and Neon DB.",
+    image: "https://swift-9.github.io/swastik-portfolio/projects/project2.jpg",
+    tags: ["TypeScript", "Neon DB", "Next.js"],
+    demoUrl: "https://ride-atlas-trip-planner.vercel.app",
+    githubUrl: "https://github.com/swift-9/RideAtlas-Trip-Planner.git",
   },
   {
     id: 3,
