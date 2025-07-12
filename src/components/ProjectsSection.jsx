@@ -17,7 +17,13 @@ const projects = [
     description:
       "Trip planner with itinerary creation, image uploads, and globe visualization using Google Maps API — built with Next.js, TypeScript, Tailwind CSS, and Neon DB.",
     image: "https://swift-9.github.io/swastik-portfolio/projects/project2.png",
-    tags: ["TypeScript", "Neon DB", "Next.js"],
+    tags: [
+      "TypeScript",
+      "Neon DB",
+      "Next.js",
+      "TailwindCSS",
+      "Google Maps API",
+    ],
     demoUrl: "https://ride-atlas-trip-planner.vercel.app",
     githubUrl: "https://github.com/swift-9/RideAtlas-Trip-Planner.git",
   },
