@@ -16,7 +16,7 @@ const projects = [
     title: "RideAtlas Orbit: Trip Planner",
     description:
       "Trip planner with itinerary creation, image uploads, and globe visualization using Google Maps API — built with Next.js, TypeScript, Tailwind CSS, and Neon DB.",
-    image: "https://swift-9.github.io/swastik-portfolio/projects/project2.jpg",
+    image: "https://swift-9.github.io/swastik-portfolio/projects/project2.png",
     tags: ["TypeScript", "Neon DB", "Next.js"],
     demoUrl: "https://ride-atlas-trip-planner.vercel.app",
     githubUrl: "https://github.com/swift-9/RideAtlas-Trip-Planner.git",
@@ -57,7 +57,7 @@ export const ProjectsSection = () => {
                 <img
                   src={project.image}
                   alt={project.title}
-                  className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
+                  className="w-full h-full object-contain transition-transform duration-500 group-hover:scale-110"
                 />
               </div>
 
