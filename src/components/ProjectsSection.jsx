@@ -29,13 +29,13 @@ const projects = [
   },
   {
     id: 3,
-    title: "E-commerce Platform",
+    title: "Frontend Gaming Website: Award wining UI UX Design",
     description:
-      "Full-featured e-commerce platform with user authentication and payment processing.",
+      "High-performance, visually captivating frontend application built with Vite and Tailwind CSS.",
     image: "https://swift-9.github.io/swastik-portfolio/projects/project3.png",
-    tags: ["React", "Node.js", "Stripe"],
-    demoUrl: "#",
-    githubUrl: "#",
+    tags: ["React", "Tailwindcss", "Vercel"],
+    demoUrl: "https://frontend-pure.vercel.app/",
+    githubUrl: "https://github.com/swift-9/frontend-pure",
   },
 ];
 
