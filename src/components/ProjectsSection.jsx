@@ -29,7 +29,7 @@ const projects = [
   },
   {
     id: 3,
-    title: "Frontend Gaming Website: Award wining UI UX Design",
+    title: "Frontend Gaming Website: Award winning UI UX Design",
     description:
       "High-performance, visually captivating frontend application built with Vite and Tailwind CSS.",
     image: "https://swift-9.github.io/swastik-portfolio/projects/project3.png",
