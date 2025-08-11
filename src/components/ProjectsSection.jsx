@@ -2,7 +2,7 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const BASE_URL = import.meta.env.BASE_URL;
 const projects = [
   {
-    id: 1,
+    id: 2,
     title: "RIDEAtlas-EX: SSR Page with React Router v7",
     description:
       "A beautiful landing page app using React and Tailwind and Rest API to display countries data.",
@@ -12,7 +12,7 @@ const projects = [
     githubUrl: "https://github.com/swift-9/RIDEAtlas-EX.git",
   },
   {
-    id: 2,
+    id: 1,
     title: "RideAtlas Orbit: Trip Planner",
     description:
       "Trip planner with itinerary creation, image uploads, and globe visualization using Google Maps API — built with Next.js, TypeScript, Tailwind CSS, and Neon DB.",
