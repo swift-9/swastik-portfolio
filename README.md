@@ -98,7 +98,7 @@ Your app will be available at: [http://localhost:5173](http://localhost:5173)
 
 > 📸 Add screenshots of your Hero section, Projects grid, and Contact form here to show off your site.
 
----
+## <div><img src="https://swift-9.github.io/swastik-portfolio/projects/pic.png" alt="Screenshot" /></div>
 
 ## ☁️ Deployment
 
