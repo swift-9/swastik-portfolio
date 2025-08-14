@@ -2,9 +2,6 @@
 
 <div align="center">
   <br />
-  <a href="https://youtu.be/YOUR_VIDEO_ID" target="_blank">
-    <img src="./banner.png" alt="Portfolio Website Banner">
-  </a>
   <br />
   <div>
     <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
@@ -39,40 +36,40 @@ In this tutorial, you'll learn how to build a modern portfolio website using **R
 
 ## ⚙️ Tech Stack
 
-* **React** – Component-based UI development
-* **Vite** – Lightning-fast build tool
-* **TailwindCSS** – Utility-first CSS for styling
-* **Lucide Icons** – Clean and beautiful icon pack
-* **Radix UI** – Accessible component primitives
-* **TypeScript (optional)** – Type safety and tooling
-* **GitHub & Vercel** – Deployment
+- **React** – Component-based UI development
+- **Vite** – Lightning-fast build tool
+- **TailwindCSS** – Utility-first CSS for styling
+- **Lucide Icons** – Clean and beautiful icon pack
+- **Radix UI** – Accessible component primitives
+- **TypeScript (optional)** – Type safety and tooling
+- **GitHub & Vercel** – Deployment
 
 ---
 
 ## ⚡️ Features
 
-* 🌑 **Light/Dark Mode Toggle**
+- 🌑 **Light/Dark Mode Toggle**
   Save theme preference in local storage with beautiful transitions
 
-* 💫 **Animated Backgrounds**
+- 💫 **Animated Backgrounds**
   Stars, meteors, scroll effects, and glowing UI elements
 
-* 📱 **Responsive Navigation**
+- 📱 **Responsive Navigation**
   Desktop and mobile menus with glassmorphism
 
-* 👨‍💻 **Hero & About Sections**
+- 👨‍💻 **Hero & About Sections**
   Showcase who you are with smooth intro animations and buttons
 
-* 📊 **Skills Grid**
+- 📊 **Skills Grid**
   Filterable progress bars and categories with animated width
 
-* 🖼️ **Projects Showcase**
+- 🖼️ **Projects Showcase**
   Display screenshots, tech stacks, and GitHub/demo links
 
-* 📩 **Contact Section**
+- 📩 **Contact Section**
   Social icons + responsive contact form with toast notifications
 
-* 🚀 **One-Click Deployment**
+- 🚀 **One-Click Deployment**
   Easily host your site with Vercel and GitHub
 
 ---
@@ -81,8 +78,8 @@ In this tutorial, you'll learn how to build a modern portfolio website using **R
 
 ### Prerequisites
 
-* [Node.js](https://nodejs.org/)
-* [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/)
+- [Git](https://git-scm.com/)
 
 ### Clone and Run
 
@@ -118,14 +115,14 @@ Your live website will be hosted on a custom subdomain (e.g. `https://your-name.
 
 ## 🔗 Useful Links
 
-* [React Documentation](https://reactjs.org/)
-* [Tailwind CSS Docs](https://tailwindcss.com/)
-* [Lucide Icons](https://lucide.dev/)
-* [Radix UI](https://www.radix-ui.com/)
-* [Vite](https://vitejs.dev/)
-* [Vercel](https://vercel.com/)
+- [React Documentation](https://reactjs.org/)
+- [Tailwind CSS Docs](https://tailwindcss.com/)
+- [Lucide Icons](https://lucide.dev/)
+- [Radix UI](https://www.radix-ui.com/)
+- [Vite](https://vitejs.dev/)
+- [Vercel](https://vercel.com/)
 
 ---
 
 Let me know if you'd like me to generate a version with your actual GitHub repo, YouTube URL, or a banner image suggestion!
-"# swastik-portfolio" 
+"# swastik-portfolio"
