@@ -11,8 +11,6 @@
     <img src="https://img.shields.io/badge/-Radix UI-9D4EDD?style=for-the-badge&logo=data:image/svg+xml;base64..." alt="Radix UI" />
   </div>
   <h3 align="center">A Stunning Developer Portfolio with Animations, Dark Mode, and Projects Showcase</h3>  
-  
-  
 
   
   <br />
