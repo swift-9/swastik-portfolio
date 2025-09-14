@@ -37,6 +37,26 @@ const projects = [
     demoUrl: "https://frontend-pure.vercel.app/",
     githubUrl: "https://github.com/swift-9/frontend-pure",
   },
+  {
+    id: 4,
+    title: "Self driving Car Web App: neural -Powered Autonomous Vehicle",
+    description:
+      "High-performance, visually captivating frontend application built with Vite and Tailwind CSS.",
+    image: "https://swift-9.github.io/swastik-portfolio/projects/project3.png",
+    tags: ["React", "Tailwindcss", "Vercel"],
+    demoUrl: "https://frontend-pure.vercel.app/",
+    githubUrl: "https://github.com/swift-9/frontend-pure",
+  },
+  {
+    id: 5,
+    title: "Trello Clone: Task Management App",
+    description:
+      "High-performance, visually captivating frontend application built with Vite and Tailwind CSS.",
+    image: "https://swift-9.github.io/swastik-portfolio/projects/project3.png",
+    tags: ["React", "Tailwindcss", "Vercel"],
+    demoUrl: "https://frontend-pure.vercel.app/",
+    githubUrl: "https://github.com/swift-9/frontend-pure",
+  },
 ];
 
 export const ProjectsSection = () => {
