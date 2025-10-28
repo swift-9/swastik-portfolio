@@ -41,21 +41,23 @@ const projects = [
     id: 4,
     title: "Self driving Car Web App: neural -Powered Autonomous Vehicle",
     description:
-      "High-performance, visually captivating frontend application built with Vite and Tailwind CSS.",
-    image: "https://swift-9.github.io/swastik-portfolio/projects/project3.png",
-    tags: ["React", "Tailwindcss", "Vercel"],
-    demoUrl: "https://frontend-pure.vercel.app/",
-    githubUrl: "https://github.com/swift-9/frontend-pure",
+      "A browser-based self-driving car simulation built using plain JavaScript and the HTML5 Canvas.",
+    image:
+      "https://github.com/swift-9/SelfDriving-Car-js/blob/main/car_g.gif?raw=true",
+    tags: ["JavaScript", "CSS", "Canvas", "Neural Networks", "Vercel"],
+    demoUrl: "https://self-driving-car-js-sand.vercel.app",
+    githubUrl: "https://github.com/swift-9/SelfDriving-Car-js",
   },
   {
     id: 5,
     title: "Trello Clone: Task Management App",
     description:
-      "High-performance, visually captivating frontend application built with Vite and Tailwind CSS.",
-    image: "https://swift-9.github.io/swastik-portfolio/projects/project3.png",
-    tags: ["React", "Tailwindcss", "Vercel"],
-    demoUrl: "https://frontend-pure.vercel.app/",
-    githubUrl: "https://github.com/swift-9/frontend-pure",
+      "A modern Kanban-style task management app built with Next.js, Prisma, and Clerk.",
+    image:
+      "https://github.com/swift-9/Trello-Clone-Fullstack/raw/main/Trello.png",
+    tags: ["Next.js", "Prisma", "Supabase", "Vercel"],
+    demoUrl: "https://trello-clone-fullstack.vercel.app",
+    githubUrl: "https://github.com/swift-9/Trello-Clone-Fullstack",
   },
 ];
 
